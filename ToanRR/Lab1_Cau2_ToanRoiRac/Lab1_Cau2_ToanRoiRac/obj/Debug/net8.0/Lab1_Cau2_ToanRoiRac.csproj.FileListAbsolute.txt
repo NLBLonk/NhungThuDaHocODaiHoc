@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\bin\Debug\net8.0\Lab1_Cau2_ToanRoiRac.exe
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\bin\Debug\net8.0\Lab1_Cau2_ToanRoiRac.deps.json
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\bin\Debug\net8.0\Lab1_Cau2_ToanRoiRac.runtimeconfig.json
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\bin\Debug\net8.0\Lab1_Cau2_ToanRoiRac.dll
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\bin\Debug\net8.0\Lab1_Cau2_ToanRoiRac.pdb
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\Lab1_Cau2_ToanRoiRac.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\Lab1_Cau2_ToanRoiRac.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\Lab1_Cau2_ToanRoiRac.AssemblyInfo.cs
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\Lab1_Cau2_ToanRoiRac.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\Lab1_Cau2_ToanRoiRac.dll
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\refint\Lab1_Cau2_ToanRoiRac.dll
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\Lab1_Cau2_ToanRoiRac.pdb
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\Lab1_Cau2_ToanRoiRac.genruntimeconfig.cache
+\\Mac\Home\Desktop\Lab1_Cau2_ToanRoiRac\Lab1_Cau2_ToanRoiRac\obj\Debug\net8.0\ref\Lab1_Cau2_ToanRoiRac.dll

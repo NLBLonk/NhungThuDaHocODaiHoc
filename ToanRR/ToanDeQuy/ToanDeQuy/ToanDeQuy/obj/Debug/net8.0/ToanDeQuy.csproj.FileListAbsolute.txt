@@ -1,0 +1,56 @@
+D:\code\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.exe
+D:\code\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.deps.json
+D:\code\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.runtimeconfig.json
+D:\code\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.dll
+D:\code\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.pdb
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfoInputs.cache
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfo.cs
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.csproj.CoreCompileInputs.cache
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.dll
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\refint\ToanDeQuy.dll
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.pdb
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.genruntimeconfig.cache
+D:\code\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ref\ToanDeQuy.dll
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.exe
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.deps.json
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.dll
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.pdb
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.dll
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\refint\ToanDeQuy.dll
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.pdb
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ref\ToanDeQuy.dll
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.exe
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.deps.json
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.runtimeconfig.json
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.dll
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.pdb
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.GeneratedMSBuildEditorConfig.editorconfig
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfoInputs.cache
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfo.cs
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.csproj.CoreCompileInputs.cache
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.dll
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\refint\ToanDeQuy.dll
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.pdb
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.genruntimeconfig.cache
+H:\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ref\ToanDeQuy.dll
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.exe
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.deps.json
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.runtimeconfig.json
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.dll
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\bin\Debug\net8.0\ToanDeQuy.pdb
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.AssemblyInfo.cs
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.dll
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\refint\ToanDeQuy.dll
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.pdb
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ToanDeQuy.genruntimeconfig.cache
+\\Mac\Home\Desktop\Toán rời rạc\ToanDeQuy\ToanDeQuy\ToanDeQuy\obj\Debug\net8.0\ref\ToanDeQuy.dll

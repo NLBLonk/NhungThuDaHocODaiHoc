@@ -1,0 +1,14 @@
+\\Mac\Home\Downloads\ToHopKN\Test\bin\Debug\Test.exe.config
+\\Mac\Home\Downloads\ToHopKN\Test\bin\Debug\Test.exe
+\\Mac\Home\Downloads\ToHopKN\Test\bin\Debug\Test.pdb
+\\Mac\Home\Downloads\ToHopKN\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\ToHopKN\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\ToHopKN\Test\obj\Debug\Test.exe
+\\Mac\Home\Downloads\ToHopKN\Test\obj\Debug\Test.pdb
+H:\Toán rời rạc\ToHopKN\Test\bin\Debug\Test.exe.config
+H:\Toán rời rạc\ToHopKN\Test\bin\Debug\Test.exe
+H:\Toán rời rạc\ToHopKN\Test\bin\Debug\Test.pdb
+H:\Toán rời rạc\ToHopKN\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+H:\Toán rời rạc\ToHopKN\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+H:\Toán rời rạc\ToHopKN\Test\obj\Debug\Test.exe
+H:\Toán rời rạc\ToHopKN\Test\obj\Debug\Test.pdb

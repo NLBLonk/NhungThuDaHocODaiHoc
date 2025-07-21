@@ -1,0 +1,35 @@
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.exe
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.deps.json
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.dll
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.pdb
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.dll
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\refint\Lab2_trr.dll
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.pdb
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Lab2_trr\Lab2_trr\obj\Debug\net8.0\ref\Lab2_trr.dll
+H:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.GeneratedMSBuildEditorConfig.editorconfig
+H:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.AssemblyInfoInputs.cache
+H:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.AssemblyInfo.cs
+H:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.csproj.CoreCompileInputs.cache
+H:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.dll
+H:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\refint\Lab2_trr.dll
+H:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.pdb
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.exe
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.deps.json
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.runtimeconfig.json
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.dll
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\bin\Debug\net8.0\Lab2_trr.pdb
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.GeneratedMSBuildEditorConfig.editorconfig
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.AssemblyInfoInputs.cache
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.AssemblyInfo.cs
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.csproj.CoreCompileInputs.cache
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.dll
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\refint\Lab2_trr.dll
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.pdb
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\Lab2_trr.genruntimeconfig.cache
+F:\Toán rời rạc\Lab2_trr\Lab2_trr\obj\Debug\net8.0\ref\Lab2_trr.dll
